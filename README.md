@@ -17,7 +17,7 @@ Note: I have used limited datasets, so if you want to have a more accurate ouput
 
 
 
-3. Unsupervised Outlier Detection
+<strong>Unsupervised Outlier Detection</strong>
 
 Now that we have processed our data, we can begin deploying our machine learning algorithms. We will use the following techniques:
 
